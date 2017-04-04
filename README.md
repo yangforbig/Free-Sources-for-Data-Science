@@ -1,6 +1,6 @@
 Free Sources for Learning Data Science
 ===================
-This repo is a collection of sources for learning Data Science, Statistics, Machine Learning and Something interesting.
+This repo is a collection of sources for learning Data Science, Statistics, Machine Learning and Something might be worth learning.
 
 ----------
 
