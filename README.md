@@ -13,3 +13,7 @@ Database
 [NoSQL Databases: An Overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview). By Pramod Sadalage.
 
 [24 Essential SQL Interview Questions](https://www.toptal.com/sql/interview-questions)
+
+[A Brief Overview of Common RDBMS](https://www.codecademy.com/articles/sql-rdbms?r=master) From Codecademy 
+
+[List of SQL Commands](https://www.codecademy.com/articles/sql-commands?r=master) From Codecademy
