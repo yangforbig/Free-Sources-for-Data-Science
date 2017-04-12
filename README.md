@@ -17,3 +17,7 @@ Database
 [A Brief Overview of Common RDBMS( SQLite, MySQL, PostgreSQL, Oracle DB, and SQL Server)](https://www.codecademy.com/articles/sql-rdbms?r=master) From Codecademy 
 
 [List of SQL Commands](https://www.codecademy.com/articles/sql-commands?r=master) From Codecademy
+
+Java
+--------------
+[Learn Java from Python](http://interactivepython.org/courselib/static/java4python/index.html)
