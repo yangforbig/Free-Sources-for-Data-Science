@@ -29,3 +29,5 @@ R
 [Beginner's guide to R: Introduction](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)
 
 [Introduction to RStudio](http://dss.princeton.edu/training/RStudio101.pdf)
+
+[Loading Data and Basic Formatting in R](http://flowingdata.com/2015/02/18/loading-data-and-basic-formatting-in-r/) by NATHAN YAU
