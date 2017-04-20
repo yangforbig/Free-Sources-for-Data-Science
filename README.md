@@ -27,4 +27,5 @@ Java
 R
 -------------
 [Beginner's guide to R: Introduction](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)
+
 [Introduction to RStudio](http://dss.princeton.edu/training/RStudio101.pdf)
