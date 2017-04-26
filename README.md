@@ -4,6 +4,11 @@ This repo is a collection of sources for learning Data Science, Statistics, Mach
 
 ----------
 
+Statistics
+-----------
+[Statistics 401: Applied Statistical Methods II](http://dept.stat.lsa.umich.edu/~kshedden/Courses/Stat401/) by University of Michigan
+
+
 Machine Learning 
 -------------
 [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html).  By Matthew Mayo, KDnuggets.
@@ -31,3 +36,17 @@ R
 [Introduction to RStudio](http://dss.princeton.edu/training/RStudio101.pdf)
 
 [Loading Data and Basic Formatting in R](http://flowingdata.com/2015/02/18/loading-data-and-basic-formatting-in-r/) by NATHAN YAU
+
+[Rstudio Cheet Sheet](https://www.rstudio.com/resources/cheatsheets/)
+
+[Data Wrangling with R](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/DataWranglingWithR.pdf)
+
+[Date Formats in R](https://www.r-bloggers.com/date-formats-in-r/)
+
+[ggplot2 tutorial](http://bbs.ceb-institute.org/wp-content/uploads/2011/09/handout_ggplot2.pdf) by Hadley Wickham
+
+[Intro to dplyr](https://www.r-bloggers.com/hadley-wickham-on-why-he-created-all-those-r-packages/), [dplyr tutorial at useR! 2014 Part1](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-1/), [dplyr tutorial at useR! 2014 Part2](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-2/) by Hadley Wickhan
+
+
+
+
