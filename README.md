@@ -45,7 +45,7 @@ R
 
 [ggplot2 tutorial](http://bbs.ceb-institute.org/wp-content/uploads/2011/09/handout_ggplot2.pdf) by Hadley Wickham
 
-[Intro to dplyr](https://www.r-bloggers.com/hadley-wickham-on-why-he-created-all-those-r-packages/), [dplyr tutorial at useR! 2014 Part1](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-1/), [dplyr tutorial at useR! 2014 Part2](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-2/) by Hadley Wickhan
+[Intro to dplyr](https://www.r-bloggers.com/hadley-wickham-on-why-he-created-all-those-r-packages/), [dplyr tutorial at useR! 2014 Part1](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-1/), [dplyr tutorial at useR! 2014 Part2](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-2/) by Hadley Wickham
 
 
 
