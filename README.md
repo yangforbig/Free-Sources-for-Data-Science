@@ -13,6 +13,8 @@ Machine Learning
 -------------
 [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html).  By Matthew Mayo, KDnuggets.
 
+[Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+
 Database 
 -------------
 [NoSQL Databases: An Overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview). By Pramod Sadalage.
@@ -31,6 +33,8 @@ Java
 
 R
 -------------
+[R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund, Hadley Wickham
+
 [Beginner's guide to R: Introduction](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)
 
 [Introduction to RStudio](http://dss.princeton.edu/training/RStudio101.pdf)
@@ -46,6 +50,10 @@ R
 [ggplot2 tutorial](http://bbs.ceb-institute.org/wp-content/uploads/2011/09/handout_ggplot2.pdf) by Hadley Wickham
 
 [Intro to dplyr](https://www.r-bloggers.com/hadley-wickham-on-why-he-created-all-those-r-packages/), [dplyr tutorial at useR! 2014 Part1](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-1/), [dplyr tutorial at useR! 2014 Part2](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-2/) by Hadley Wickham
+
+[smoothers in ggplot2.](http://stats.idre.ucla.edu/r/faq/how-can-i-explore-different-smooths-in-ggplot2/)
+
+
 
 
 
