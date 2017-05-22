@@ -7,7 +7,7 @@ This repo is a collection of sources for learning Data Science, Statistics, Mach
 Statistics
 -----------
 [Statistics 401: Applied Statistical Methods II](http://dept.stat.lsa.umich.edu/~kshedden/Courses/Stat401/) by University of Michigan
-
+[http://www.stat.columbia.edu/~gelman/arm/missing.pdf](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
 Machine Learning 
 -------------
@@ -52,6 +52,13 @@ R
 [Intro to dplyr](https://www.r-bloggers.com/hadley-wickham-on-why-he-created-all-those-r-packages/), [dplyr tutorial at useR! 2014 Part1](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-1/), [dplyr tutorial at useR! 2014 Part2](https://www.r-bloggers.com/hadley-wickhams-dplyr-tutorial-at-user-2014-part-2/) by Hadley Wickham
 
 [smoothers in ggplot2.](http://stats.idre.ucla.edu/r/faq/how-can-i-explore-different-smooths-in-ggplot2/)
+
+
+Technical Interview
+--------------
+[Big O Algorithm Complexity](http://bigocheatsheet.com/)
+[Algorithm 4th Edition(Princeton)](http://algs4.cs.princeton.edu/home/)
+
 
 
 
