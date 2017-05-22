@@ -7,7 +7,7 @@ This repo is a collection of sources for learning Data Science, Statistics, Mach
 Statistics
 -----------
 [Statistics 401: Applied Statistical Methods II](http://dept.stat.lsa.umich.edu/~kshedden/Courses/Stat401/) by University of Michigan
-[http://www.stat.columbia.edu/~gelman/arm/missing.pdf](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
+[Missing-data imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf)
 
 Machine Learning 
 -------------
